@@ -379,7 +379,7 @@ viewBox="0 0 512 512">
       height={18} 
     />
   </div>
- <h3 className="kronaoneregular  mt-[720px] max400:mt-[1600px]  md:mt-[-200px] lg:mt-[-10px] mx-auto text-center text-[20px] sm:text-[22px] md:text-[24px] lg:text-[26px] justify-center px-4 sm:px-6 md:px-8 lg:px-10">
+ <h3 className="kronaoneregular  mt-[720px] max400:mt-[1400px]  md:mt-[-200px] lg:mt-[-10px] mx-auto text-center text-[20px] sm:text-[22px] md:text-[24px] lg:text-[26px] justify-center px-4 sm:px-6 md:px-8 lg:px-10">
   From stardust to eternity.<br className="block sm:hidden" /> Explore the cosmos. <br />
   <p className="mt-[10px] sm:mt-[5px] md:mt-[0px] lg:mt-[-10px]">
     Join the timeless journey of the Cosmic Creatures Collection.
@@ -393,7 +393,7 @@ viewBox="0 0 512 512">
       </main>
 
       
-      <footer className="relative z-50 flex justify-center items-center space-x-6 py-6 sm:mt-[100px] md:mt-[30px] lg:mt-[0px]">
+      <footer className="relative z-50 flex justify-center items-center space-x-6 py-6 max400:mt-[10px] sm:mt-[100px] md:mt-[30px] lg:mt-[0px]">
       {/* Discord 1 */}
       <a href="https://discord.gg/QYhUNRPE9n" target="_blank" rel="nooper noreferrer">
       <div className="flex justify-center items-center h-12 w-12 bg-[#4647C5]/70 border-2 border-[#4647C5]/70 rounded-full">
