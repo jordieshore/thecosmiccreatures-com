@@ -262,7 +262,7 @@ viewBox="0 0 512 512">
 
 <div className="pl-4 sm:pl-[50px] md:pl-[170px] mt-[620px] sm:mt-[30px] md:mt-[670px] py-8 sm:py-8 md:py-12 lg:py-16 block relative z-10">
   <h2 className="kronaoneregular text-left text-[24px] sm:text-[32px] md:text-[40px]">
-    Embodied Stardust:<br /> 
+    Embodied Stardust:<br className="hidden lg:block"/> 
     A Timeless Elegance
   </h2>
 
