@@ -205,7 +205,7 @@ viewBox="0 0 512 512">
 <div className="md:mb-[0px] mb-[350px]"></div>
   <div className="container mx-auto px-4">
   <div className="mx-auto mt-[150px] sm:mt-[170px] md:mt-[187px] lg:mt-[200px] max-w-7xl py-8 sm:py-10 md:py-12 lg:py-16">
-  <h2 className="kronaoneregular text-center mt-[-180px] sm:mt-[-150px] md:mt-[-70px] lg:mt-[-50px] text-[28px] sm:text-[30px] md:text-[40px] lg:text-[45px]">
+  <h2 className="kronaoneregular text-center mt-[-180px] sm:mt-[-150px] md:mt-[-40px] lg:mt-[-50px] text-[28px] sm:text-[30px] md:text-[40px] lg:text-[45px]">
     Limited Edition Stardust, Infinite Journeys
   </h2>
   <p className="poppinsregular text-center mt-[30px] sm:mt-[40px] md:mt-[60px] lg:mt-[70px] text-[18px] sm:text-[20px] md:text-[22px] px-4 sm:px-6 md:px-8 lg:px-10">
