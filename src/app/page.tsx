@@ -379,7 +379,7 @@ viewBox="0 0 512 512">
       height={18} 
     />
   </div>
- <h3 className="kronaoneregular  mt-[720px] max400:mt-[1200px]  md:mt-[-200px] lg:mt-[-10px] mx-auto text-center text-[20px] sm:text-[22px] md:text-[24px] lg:text-[26px] justify-center px-4 sm:px-6 md:px-8 lg:px-10">
+ <h3 className="kronaoneregular  mt-[720px] max400:mt-[1700px]  md:mt-[-200px] lg:mt-[-10px] mx-auto text-center text-[20px] sm:text-[22px] md:text-[24px] lg:text-[26px] justify-center px-4 sm:px-6 md:px-8 lg:px-10">
   From stardust to eternity.<br className="block sm:hidden" /> Explore the cosmos. <br />
   <p className="mt-[10px] sm:mt-[5px] md:mt-[0px] lg:mt-[-10px]">
     Join the timeless journey of the Cosmic Creatures Collection.
