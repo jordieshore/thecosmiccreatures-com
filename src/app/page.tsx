@@ -165,9 +165,11 @@ viewBox="0 0 512 512">
       </div>
 
      
+      <a href="https://discord.gg/QYhUNRPE9n" target="_blank" rel="nooper noreferrer">
       <button className="noto-sans-com text-[16px] mt-[50px] md:mt-[148px] notosans font-normal mx-auto text-center rounded-lg bg-[#4647C5] text-white px-5 py-4 hover:bg-[#3638A0] transition-colors duration-300 flex items-center justify-center z-10 relative">
       Join Discord
       </button>
+      </a>
   
 
       <div className="hidden md:block">
