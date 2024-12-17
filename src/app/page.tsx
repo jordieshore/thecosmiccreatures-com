@@ -322,11 +322,11 @@ viewBox="0 0 512 512">
   </div>
 
   <p className="poppinsregular text-center mt-[48px] text-[20px]">
-    Celestial Exploration: Immerse yourself in the Cosmic Creatures Collection, where<br className="hidden md:block"/> the stories of the stars come to life.
+    Celestial Exploration: Immerse yourself in the Cosmic Creatures Collection, where<br className="hidden lg:block"/> the stories of the stars come to life.
   </p>
 
   <p className="poppinsregular text-center mt-5 text-[20px] z-10 relative">
-    Connect with the Cosmos: Link your wallet to the cosmic grid and embrace<br/> the ethereal connection to the original essence of time.
+    Connect with the Cosmos: Link your wallet to the cosmic grid and embrace<br className="hidden lg:block"/> the ethereal connection to the original essence of time.
   </p>
 
   <div className="hidden md:block">
@@ -347,12 +347,15 @@ viewBox="0 0 512 512">
   </div>
 
   <p className="poppinsregular text-center mt-5 text-[20px] z-10 relative">
-    Harvest Stardust: Choose your Cosmic Creature and become a custodian<br /> of the celestial heritage, a keeper of stories untold.
+    Harvest Stardust: Choose your Cosmic Creature and become a custodian<br className="hidden lg:block"/> of the celestial heritage, a keeper of stories untold.
   </p>
 
+  <a href="https://x.com/cosmicsxyz" target="_blank" rel="nooper noreferrer">
   <button className=" noto-sans-com text-[16px] mt-[40px] notosans font-normal mx-auto text-center rounded-lg bg-[#7879F1] text-white px-5 py-4 hover:bg-[#3638A0] transition-colors duration-300 flex items-center justify-center">
     Join our community
   </button>
+</a>
+
 </div>
 
 
