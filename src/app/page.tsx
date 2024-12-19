@@ -350,7 +350,7 @@ viewBox="0 0 512 512">
     Harvest Stardust: Choose your Cosmic Creature and become a custodian<br className="hidden lg:block"/> of the celestial heritage, a keeper of stories untold.
   </p>
 
-  <a href="https://x.com/cosmicsxyz" target="_blank" rel="nooper noreferrer">
+  <a href="https://linktr.ee/thecosmiccreatures" target="_blank" rel="nooper noreferrer">
   <button className=" noto-sans-com text-[16px] mt-[40px] notosans font-normal mx-auto text-center rounded-lg bg-[#7879F1] text-white px-5 py-4 hover:bg-[#3638A0] transition-colors duration-300 flex items-center justify-center">
     Join our community
   </button>
